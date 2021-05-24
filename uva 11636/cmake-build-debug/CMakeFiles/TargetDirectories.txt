@@ -1,0 +1,3 @@
+/home/huma/CLionProject/uva 11636/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/huma/CLionProject/uva 11636/cmake-build-debug/CMakeFiles/uva_11636.dir
+/home/huma/CLionProject/uva 11636/cmake-build-debug/CMakeFiles/edit_cache.dir

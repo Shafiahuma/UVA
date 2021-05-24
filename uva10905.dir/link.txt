@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uva10905.dir/main.cpp.o  -o uva10905 

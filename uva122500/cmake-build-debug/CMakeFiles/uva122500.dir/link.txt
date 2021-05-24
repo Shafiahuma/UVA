@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uva122500.dir/main.cpp.o  -o uva122500 

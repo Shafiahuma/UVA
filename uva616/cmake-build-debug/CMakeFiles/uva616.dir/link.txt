@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/uva616.dir/main.cpp.o  -o uva616 
