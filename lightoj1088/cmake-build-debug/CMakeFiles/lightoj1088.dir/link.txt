@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lightoj1088.dir/main.cpp.o  -o lightoj1088 

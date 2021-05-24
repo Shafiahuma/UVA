@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/segment_sieve.dir/main.cpp.o  -o segment_sieve 

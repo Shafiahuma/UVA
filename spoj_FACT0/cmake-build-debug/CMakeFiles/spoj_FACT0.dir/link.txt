@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/spoj_FACT0.dir/main.cpp.o  -o spoj_FACT0 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/kadane_s_algorithm.dir/main.cpp.o  -o kadane_s_algorithm 

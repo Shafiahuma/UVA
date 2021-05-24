@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/spoj_DIVSUM2.dir/main.cpp.o  -o spoj_DIVSUM2 

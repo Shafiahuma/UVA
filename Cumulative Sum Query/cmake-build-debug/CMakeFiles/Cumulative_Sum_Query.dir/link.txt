@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cumulative_Sum_Query.dir/main.cpp.o  -o Cumulative_Sum_Query 

@@ -1,0 +1,3 @@
+/home/huma/spoj_DIVSUM2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/huma/spoj_DIVSUM2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/huma/spoj_DIVSUM2/cmake-build-debug/CMakeFiles/spoj_DIVSUM2.dir
